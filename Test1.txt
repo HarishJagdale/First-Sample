@@ -1,0 +1,5 @@
+This file is created for edureka test of merge conflicts,
+we are creating conflicts for below line.
+
+the value of pi is 3.1416.
+
